@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<!-- {{ object_list }} 節35開始不再使用-->
+
+{% for instance in object_list %}
+	<!--方法1-->
+	<p>{{ instance.id }} - <a href="{{ instance.get_absolute_url }}">{{ instance.title }}</a></p>
+	<!--方法2-->
+	<p>{{ instance.id }} - <a href="{% url 'articles:article-detail' instance.id %}">{{ instance.title }}</a></p>
+
+{% endfor %}
+
+{% endblock %}

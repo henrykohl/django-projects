@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>Item</h1>
+
+<font color="red">根據 C:\Users\customer\dev\trydjango\src\products\views.py</font>
+
+<br>
+
+<font color="blue">讀取 C:\Users\customer\dev\trydjango\src\templates\product\detail.html</font>
+
+
+<!-- product_detail_view中的基礎方式 -->
+<!-- <h2>{{ title }}</h1>
+<p>{% if description %}{{ description }}
+{% else %}Description Coming Soon{% endif %}</p>
+
+<p>{% if description != None and description != '' %}{{ description }}
+{% else %}Description Coming Soon{% endif %}</p> -->
+
+<!-- product_detail_view中的通用方式 -->
+<h2>OG {{ object.title }}</h1>
+<p>{% if object.description != None and object.description != ''%}{{ object.description }}{% else %}Description Coming Soon{% endif %}</p>
+<p>{{ object.price }}</p>
+
+{% endblock %}

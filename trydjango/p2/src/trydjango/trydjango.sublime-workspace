@@ -1,0 +1,766 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get_",
+				"get_object"
+			],
+			[
+				"template",
+				"template_name"
+			],
+			[
+				"get",
+				"get_object"
+			],
+			[
+				"prod",
+				"product_detail_view"
+			],
+			[
+				"product_",
+				"product_delete_view"
+			],
+			[
+				"Product",
+				"ProductForm"
+			],
+			[
+				"Decima",
+				"DecimalField"
+			],
+			[
+				"re",
+				"register"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/customer/dev/trydjango/src/products/templates/products/product_create.html",
+			"settings":
+			{
+				"buffer_size": 984,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					18,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"BgAAABIDAAAAAAAAEwMAAAAAAAAAAAAAEgMAAAAAAAATAwAAAAAAAAEAAAAgEgMAAAAAAAATAwAAAAAAAAEAAAAgEgMAAAAAAAATAwAAAAAAAAEAAAAgEgMAAAAAAAATAwAAAAAAAAEAAAAgEgMAAAAAAAAUAwAAAAAAAAEAAAAg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAASAwAAAAAAABIDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					19,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAABQDAAAAAAAAFQMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAUAwAAAAAAABQDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					20,
+					1,
+					"insert",
+					{
+						"characters": "<>"
+					},
+					"AgAAABUDAAAAAAAAFgMAAAAAAAAAAAAAFgMAAAAAAAAXAwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAVAwAAAAAAABUDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					22,
+					1,
+					"insert",
+					{
+						"characters": "button"
+					},
+					"BgAAABYDAAAAAAAAFwMAAAAAAAAAAAAAFwMAAAAAAAAYAwAAAAAAAAAAAAAYAwAAAAAAABkDAAAAAAAAAAAAABkDAAAAAAAAGgMAAAAAAAAAAAAAGgMAAAAAAAAbAwAAAAAAAAAAAAAbAwAAAAAAABwDAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAWAwAAAAAAABYDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					23,
+					1,
+					"insert",
+					{
+						"characters": " type"
+					},
+					"BQAAABwDAAAAAAAAHQMAAAAAAAAAAAAAHQMAAAAAAAAeAwAAAAAAAAAAAAAeAwAAAAAAAB8DAAAAAAAAAAAAAB8DAAAAAAAAIAMAAAAAAAAAAAAAIAMAAAAAAAAhAwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAcAwAAAAAAABwDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					24,
+					1,
+					"insert",
+					{
+						"characters": "="
+					},
+					"AQAAACEDAAAAAAAAIgMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAhAwAAAAAAACEDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					25,
+					1,
+					"insert_snippet",
+					{
+						"contents": "'$0'"
+					},
+					"AQAAACIDAAAAAAAAJAMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAiAwAAAAAAACIDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					26,
+					1,
+					"insert",
+					{
+						"characters": "submit"
+					},
+					"BgAAACMDAAAAAAAAJAMAAAAAAAAAAAAAJAMAAAAAAAAlAwAAAAAAAAAAAAAlAwAAAAAAACYDAAAAAAAAAAAAACYDAAAAAAAAJwMAAAAAAAAAAAAAJwMAAAAAAAAoAwAAAAAAAAAAAAAoAwAAAAAAACkDAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAjAwAAAAAAACMDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					28,
+					1,
+					"insert",
+					{
+						"characters": "Save"
+					},
+					"BAAAACsDAAAAAAAALAMAAAAAAAAAAAAALAMAAAAAAAAtAwAAAAAAAAAAAAAtAwAAAAAAAC4DAAAAAAAAAAAAAC4DAAAAAAAALwMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAArAwAAAAAAACsDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					29,
+					1,
+					"insert",
+					{
+						"characters": "<>"
+					},
+					"AgAAAC8DAAAAAAAAMAMAAAAAAAAAAAAAMAMAAAAAAAAxAwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAvAwAAAAAAAC8DAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					31,
+					1,
+					"insert",
+					{
+						"characters": "/button"
+					},
+					"BwAAADADAAAAAAAAMQMAAAAAAAAAAAAAMQMAAAAAAAAyAwAAAAAAAAAAAAAyAwAAAAAAADMDAAAAAAAAAAAAADMDAAAAAAAANAMAAAAAAAAAAAAANAMAAAAAAAA1AwAAAAAAAAAAAAA1AwAAAAAAADYDAAAAAAAAAAAAADYDAAAAAAAANwMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAwAwAAAAAAADADAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		},
+		{
+			"file": "/C/Users/customer/dev/trydjango/src/products/views.py",
+			"settings":
+			{
+				"buffer_size": 4890,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "\n#"
+					},
+					"AgAAAMYIAAAAAAAAxwgAAAAAAAAAAAAAxwgAAAAAAADICAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADGCAAAAAAAAMYIAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					4,
+					1,
+					"insert",
+					{
+						"characters": " #"
+					},
+					"AgAAAMgIAAAAAAAAyQgAAAAAAAAAAAAAyQgAAAAAAADKCAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADICAAAAAAAAMgIAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAMoIAAAAAAAAywgAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADKCAAAAAAAAMoIAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					18,
+					1,
+					"insert",
+					{
+						"characters": "html"
+					},
+					"BAAAAMsIAAAAAAAAzAgAAAAAAAAAAAAAzAgAAAAAAADNCAAAAAAAAAAAAADNCAAAAAAAAM4IAAAAAAAAAAAAAM4IAAAAAAAAzwgAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADLCAAAAAAAAMsIAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					23,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"BQAAAM8IAAAAAAAA0AgAAAAAAAAAAAAAzwgAAAAAAADQCAAAAAAAAAEAAAAgzwgAAAAAAADQCAAAAAAAAAEAAAAgzwgAAAAAAADQCAAAAAAAAAEAAAAgzwgAAAAAAADQCAAAAAAAAAEAAAAg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADPCAAAAAAAAM8IAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					27,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"BAAAANAIAAAAAAAA0QgAAAAAAAAAAAAA0AgAAAAAAADRCAAAAAAAAAEAAAAg0AgAAAAAAADRCAAAAAAAAAEAAAAg0AgAAAAAAADRCAAAAAAAAAEAAAAg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADQCAAAAAAAANAIAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					28,
+					1,
+					"insert",
+					{
+						"characters": "<>"
+					},
+					"AgAAANEIAAAAAAAA0ggAAAAAAAAAAAAA0ggAAAAAAADTCAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADRCAAAAAAAANEIAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					30,
+					1,
+					"insert",
+					{
+						"characters": "form"
+					},
+					"BAAAANIIAAAAAAAA0wgAAAAAAAAAAAAA0wgAAAAAAADUCAAAAAAAAAAAAADUCAAAAAAAANUIAAAAAAAAAAAAANUIAAAAAAAA1ggAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADSCAAAAAAAANIIAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					32,
+					1,
+					"insert",
+					{
+						"characters": "<>"
+					},
+					"AgAAANcIAAAAAAAA2AgAAAAAAAAAAAAA2AgAAAAAAADZCAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADXCAAAAAAAANcIAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					34,
+					1,
+					"insert",
+					{
+						"characters": "/form"
+					},
+					"BQAAANgIAAAAAAAA2QgAAAAAAAAAAAAA2QgAAAAAAADaCAAAAAAAAAAAAADaCAAAAAAAANsIAAAAAAAAAAAAANsIAAAAAAAA3AgAAAAAAAAAAAAA3AgAAAAAAADdCAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADYCAAAAAAAANgIAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					52,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"EQAAAN4IAAAAAAAA3wgAAAAAAAAAAAAA3ggAAAAAAADfCAAAAAAAAAEAAAAg3ggAAAAAAADfCAAAAAAAAAEAAAAg3ggAAAAAAADfCAAAAAAAAAEAAAAg3ggAAAAAAADfCAAAAAAAAAEAAAAg3ggAAAAAAADfCAAAAAAAAAEAAAAg3ggAAAAAAADfCAAAAAAAAAEAAAAg3ggAAAAAAADfCAAAAAAAAAEAAAAg3ggAAAAAAADfCAAAAAAAAAEAAAAg3ggAAAAAAADfCAAAAAAAAAEAAAAg3ggAAAAAAADfCAAAAAAAAAEAAAAg3ggAAAAAAADfCAAAAAAAAAEAAAAg3ggAAAAAAADfCAAAAAAAAAEAAAAg3ggAAAAAAADfCAAAAAAAAAEAAAAg3ggAAAAAAADfCAAAAAAAAAEAAAAg3ggAAAAAAADfCAAAAAAAAAEAAAAg3ggAAAAAAADjCAAAAAAAAAEAAAAg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADeCAAAAAAAAN4IAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					53,
+					1,
+					"insert_snippet",
+					{
+						"contents": "{$0}"
+					},
+					"AQAAAOMIAAAAAAAA5QgAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADjCAAAAAAAAOMIAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					56,
+					1,
+					"insert",
+					{
+						"characters": "%%"
+					},
+					"AgAAAOQIAAAAAAAA5QgAAAAAAAAAAAAA5QgAAAAAAADmCAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADkCAAAAAAAAOQIAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					57,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAOYIAAAAAAAA5wgAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADmCAAAAAAAAOYIAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					59,
+					1,
+					"right_delete",
+					null,
+					"AQAAAOYIAAAAAAAA5ggAAAAAAAABAAAAIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADmCAAAAAAAAOYIAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					61,
+					1,
+					"insert",
+					{
+						"characters": "  "
+					},
+					"AgAAAOUIAAAAAAAA5ggAAAAAAAAAAAAA5ggAAAAAAADnCAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADlCAAAAAAAAOUIAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					63,
+					1,
+					"insert",
+					{
+						"characters": "csrf"
+					},
+					"BAAAAOYIAAAAAAAA5wgAAAAAAAAAAAAA5wgAAAAAAADoCAAAAAAAAAAAAADoCAAAAAAAAOkIAAAAAAAAAAAAAOkIAAAAAAAA6ggAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADmCAAAAAAAAOYIAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					64,
+					1,
+					"insert",
+					{
+						"characters": "+"
+					},
+					"AQAAAOoIAAAAAAAA6wgAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADqCAAAAAAAAOoIAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					65,
+					1,
+					"left_delete",
+					null,
+					"AQAAAOoIAAAAAAAA6ggAAAAAAAABAAAAKw",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADrCAAAAAAAAOsIAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					66,
+					1,
+					"insert",
+					{
+						"characters": "_token"
+					},
+					"BgAAAOoIAAAAAAAA6wgAAAAAAAAAAAAA6wgAAAAAAADsCAAAAAAAAAAAAADsCAAAAAAAAO0IAAAAAAAAAAAAAO0IAAAAAAAA7ggAAAAAAAAAAAAA7ggAAAAAAADvCAAAAAAAAAAAAADvCAAAAAAAAPAIAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADqCAAAAAAAAOoIAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					68,
+					1,
+					"insert",
+					{
+						"characters": "\n#"
+					},
+					"AgAAAPMIAAAAAAAA9AgAAAAAAAAAAAAA9AgAAAAAAAD1CAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADzCAAAAAAAAPMIAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					69,
+					1,
+					"insert",
+					{
+						"characters": " @"
+					},
+					"AgAAAPUIAAAAAAAA9ggAAAAAAAAAAAAA9ggAAAAAAAD3CAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD1CAAAAAAAAPUIAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					70,
+					1,
+					"insert",
+					{
+						"characters": "csrf"
+					},
+					"BAAAAPcIAAAAAAAA+AgAAAAAAAAAAAAA+AgAAAAAAAD5CAAAAAAAAAAAAAD5CAAAAAAAAPoIAAAAAAAAAAAAAPoIAAAAAAAA+wgAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD3CAAAAAAAAPcIAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					71,
+					1,
+					"insert",
+					{
+						"characters": "_"
+					},
+					"AQAAAPsIAAAAAAAA/AgAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD7CAAAAAAAAPsIAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					72,
+					1,
+					"insert",
+					{
+						"characters": "exempt"
+					},
+					"BgAAAPwIAAAAAAAA/QgAAAAAAAAAAAAA/QgAAAAAAAD+CAAAAAAAAAAAAAD+CAAAAAAAAP8IAAAAAAAAAAAAAP8IAAAAAAAAAAkAAAAAAAAAAAAAAAkAAAAAAAABCQAAAAAAAAAAAAABCQAAAAAAAAIJAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD8CAAAAAAAAPwIAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					75,
+					1,
+					"cut",
+					null,
+					"AQAAAMkIAAAAAAAAyQgAAAAAAAA4AAAAIyBodG1s5Lit55qEPGZvcm0+PC9mb3JtPuWmguaenOaykuWMheWQq3slIGNzcmZfdG9rZW4gJX0",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADJCAAAAAAAAPMIAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					78,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAANgIAAAAAAAA2QgAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADYCAAAAAAAANgIAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					79,
+					1,
+					"paste",
+					null,
+					"AQAAANkIAAAAAAAAAwkAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADZCAAAAAAAANkIAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					82,
+					3,
+					"left_delete",
+					null,
+					"AwAAAMgIAAAAAAAAyAgAAAAAAAABAAAAIMcIAAAAAAAAxwgAAAAAAAABAAAAI8YIAAAAAAAAxggAAAAAAAABAAAACg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADJCAAAAAAAAMkIAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					85,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAMkIAAAAAAAAyggAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADJCAAAAAAAAMkIAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					86,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAMoIAAAAAAAAywgAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADKCAAAAAAAAMoIAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/customer/dev/trydjango",
+		"/C/Users/customer/dev/trydjango/src",
+		"/C/Users/customer/dev/trydjango/src/blog",
+		"/C/Users/customer/dev/trydjango/src/blog/templates",
+		"/C/Users/customer/dev/trydjango/src/blog/templates/articles",
+		"/C/Users/customer/dev/trydjango/src/courses",
+		"/C/Users/customer/dev/trydjango/src/courses/templates",
+		"/C/Users/customer/dev/trydjango/src/courses/templates/courses",
+		"/C/Users/customer/dev/trydjango/src/products",
+		"/C/Users/customer/dev/trydjango/src/products/templates",
+		"/C/Users/customer/dev/trydjango/src/products/templates/products",
+		"/C/Users/customer/dev/trydjango/src/templates"
+	],
+	"file_history":
+	[
+		"/C/Users/customer/dev/trydjango/src/courses/views.py",
+		"/C/Users/customer/dev/trydjango/src/blog/templates/articles/article_create.html",
+		"/C/Users/customer/dev/trydjango/src/courses/templates/courses/course_create.html",
+		"/C/Users/customer/dev/trydjango/src/products/views.py",
+		"/C/Users/customer/dev/trydjango/src/products/urls.py",
+		"/C/Users/customer/dev/trydjango/src/trydjango/urls.py",
+		"/C/Users/customer/dev/trydjango/src/products/models.py",
+		"/C/Users/customer/dev/trydjango/src/products/forms.py",
+		"/C/Users/customer/dev/trydjango/src/products/templates/products/product_list.html",
+		"/C/Users/customer/dev/trydjango/src/products/templates/products/product_detail.html",
+		"/C/Users/customer/dev/trydjango/src/products/templates/products/product_create.html",
+		"/C/Users/customer/dev/trydjango/Lib/site-packages/django/core/cache/backends/dummy.py",
+		"/C/Users/customer/dev/trydjango/src/templates/product/detail.html",
+		"/C/Users/customer/dev/trydjango/src/blog/templates/articles/article_list.html",
+		"/C/Users/customer/dev/trydjango/src/courses/templates/courses/course_list.html",
+		"/C/Users/customer/dev/trydjango/src/courses/models.py",
+		"/C/Users/customer/dev/trydjango/src/blog/models.py",
+		"/C/Users/customer/dev/trydjango/src/courses/urls.py",
+		"/C/Users/customer/dev/trydjango/src/blog/forms.py",
+		"/C/Users/customer/dev/trydjango/src/blog/urls.py",
+		"/C/Users/customer/dev/trydjango/src/blog/views.py",
+		"/C/Users/customer/dev/trydjango/src/courses/forms.py",
+		"/C/Users/customer/dev/trydjango/src/courses/templates/courses/course_delete.html",
+		"/C/Users/customer/dev/trydjango/src/courses/templates/courses/course_update.html",
+		"/C/Users/customer/dev/trydjango/src/courses/admin.py",
+		"/C/Users/customer/dev/trydjango/src/courses/templates/courses/course_detail.html",
+		"/C/Users/customer/dev/trydjango/src/trydjango/settings.py",
+		"/C/Users/customer/dev/trydjango/src/blog/templates/articles/article_delete.html",
+		"/C/Users/customer/dev/trydjango/src/blog/templates/articles/article_detail.html",
+		"/C/Users/customer/dev/trydjango/src/blog/admin.py",
+		"/C/Users/customer/dev/trydjango/src/templates/base.html",
+		"/C/Users/customer/dev/trydjango/src/templates/home.html",
+		"/C/Users/customer/dev/trydjango/src/pages/views.py",
+		"/C/Users/customer/dev/trydjango/src/templates/about.html",
+		"/C/Users/customer/dev/trydjango/src/products/templates/urls.py",
+		"/C/Users/customer/dev/trydjango/src/products/templates/products/product_delete.html",
+		"/C/Users/customer/dev/trydjango/src/templates/product_hidden/detail.html",
+		"/C/Users/customer/dev/trydjango/src/products/templates/products_rename/product_detail.html",
+		"/C/Users/customer/dev/trydjango/src/products/templates/product/detail.html",
+		"/C/Users/customer/dev/trydjango/src/templates/products/product_detail.html",
+		"/C/Users/customer/dev/trydjango/src/templates/navbar.html",
+		"/C/Users/customer/dev/trydjango/src/pages/models.py",
+		"/C/Users/customer/dev/trydjango/src/templates/contact.html",
+		"/C/Users/customer/dev/trydjango/src/products/migrations/0002_product_featured.py",
+		"/C/Users/customer/dev/trydjango/src/products/migrations/0001_initial.py",
+		"/C/Users/customer/dev/trydjango/src/products/admin.py",
+		"/C/Users/customer/dev/trydjango/src/trydjango/d.sublime-project"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"get_object"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/customer/dev/trydjango/src/products/templates/products/product_create.html",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 984,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								789,
+								824
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/customer/dev/trydjango/src/products/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4890,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2251,
+								2251
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1296.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "trydjango.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 243.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

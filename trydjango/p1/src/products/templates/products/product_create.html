@@ -1,0 +1,32 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<!-- 23 -->
+<!-- <form> -->
+<!-- <form method='POST'> {% csrf_token %}
+{{ form.as_p }}
+<input type='submit' value='Save(送出新增)' />
+</form> -->
+
+<!-- 24 -->
+<!-- <form method='POST'> -->
+<!-- <form method='GET'> -->
+<!-- <form action='/search/' method='GET'> -->
+<!-- <form action='http://www.google.com/search' method='GET'> -->
+<!-- <form action='http://www.google.com/search' method='POST'> -->
+<!-- <form action='.' method='POST'> -->
+<!-- <form action='.' method='POST'>{% csrf_token %} -->
+	<!-- <input type="text" name="title" placeholder="Your title"> -->
+	<!-- <input type="text" name="q" placeholder="Your search"> -->
+
+	<!-- <input type="text" name="title" placeholder="Your title"> -->
+	<!-- <input type='submit' value='Save' /> 等於 <button type='submit'>Save</button>-->
+<!-- </form> -->
+
+<!-- 25 -->
+<form action='.' method='POST'> {% csrf_token %}
+{{ form.as_p }} 
+<input type='submit' value='Save' />
+</form>
+
+{% endblock %}

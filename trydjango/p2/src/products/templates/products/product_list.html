@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<!-- {{ object_list }} 節35開始不再使用-->
+
+{% for instance in object_list %}
+	<!-- 32 -->
+	<!-- <p>{{ instance.id }} - {{ instance.title }}</p>
+	<p>{{ instance.id }} - <a href="/products/{{ instance.id }}/">{{ instance.title }}</a> </p> -->
+	<!-- 33/34 -->
+	<p>{{ instance.id }} - <a href="{{ instance.get_absolute_url }}">{{ instance.title }}</a> </p>
+	<!--自定義-->
+	<p>{{ instance.id }} - <a href="{% url 'product-detail' instance.id %}">{{ instance.title }}</a> </p>
+	<p>{{ instance.id }} - <a href="{% url 'product-detail' my_id=instance.id %}">{{ instance.title }}</a> </p>
+{% endfor %}
+
+{% endblock %}

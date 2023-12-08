@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+<head>
+	<title>Coding for Entrepreneurs is doing Try Django</title>
+</head>
+<body>
+	<!-- <h1>This is a navbar</h1> -->
+	{% include 'navbar.html' %}
+
+	{% block content %}
+    使用base.html的其他html檔案中如果沒有  block content 與 endblock 
+    或是content改成content_main
+    這裡的字就顯示出來
+	{% endblock %}
+    <!-- {% block another_content_are %}
+    replace me
+    {% endblock %} -->
+
+</body>
+</html>
