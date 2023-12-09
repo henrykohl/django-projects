@@ -1,4 +1,4 @@
-把project資料夾(例如org,或是theme,或是user)複製到本機(例如C:\Users\customer\dev) ，資料夾名稱最好rename為studybud，
+把project資料夾(例如org,或是theme,或是user,以及customusermodel)複製到本機(例如C:\Users\customer\dev) ，資料夾名稱最好rename為studybud，
 
 （如果資料夾沒有rename，似乎也沒問題），同時也要複製`環境資料夾evn`到上述本機相同位置(例如C:\Users\customer\dev)
 
